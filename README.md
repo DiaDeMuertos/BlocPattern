@@ -1,4 +1,4 @@
-# Block Pattern
+# Bloc Pattern
 
 ## Content
 
